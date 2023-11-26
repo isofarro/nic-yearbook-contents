@@ -1,0 +1,56 @@
+[Event "NIC Yearbook 16"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "French Defence"]
+[Black "The Chatard-Alekhine Attack"]
+[Result "*"]
+[Annotator "YB16; Nogueiras, Jesus and Gonzalez, Luis Siero"]
+[ECO "C13"]
+[EventDate "1990.??.??"]
+[NicKey "FR 6.2"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.h4 { [diagram] } *
+
+[Event "NIC Yearbook 16"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Ruy Lopez"]
+[Black "The Dilworth Variation"]
+[Result "*"]
+[Annotator "YB16; van der Tak, A.C."]
+[ECO "C82"]
+[EventDate "1990.??.??"]
+[NicKey "RL 30.3"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.c3 Bc5 10.Nbd2 O-O 11.Bc2 { [diagram] } *
+
+[Event "NIC Yearbook 16"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Queen's Gambit Slav"]
+[Black "Rare continuations"]
+[Result "*"]
+[Annotator "YB16; Markov, Yuri and Schipkov, Boris and Shashin, A"]
+[ECO "D16"]
+[EventDate "1990.??.??"]
+[NicKey "SL 3-4"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 { [diagram] } *
+
+[Event "NIC Yearbook 16"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Bogoljubow Opening"]
+[Black "Mirror Image"]
+[Result "*"]
+[Annotator "YB16; Pliester, Leon"]
+[EventDate "1990.??.??"]
+[NicKey "VO 20"]
+
+1.d4 Nc6 { [diagram] } *
+

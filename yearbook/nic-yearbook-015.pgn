@@ -1,0 +1,43 @@
+[Event "NIC Yearbook 15"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Nimzo-Indian Defence"]
+[Black "The Central Strike"]
+[Result "*"]
+[Annotator "YB15; Dlugy, Maxim"]
+[ECO "E32"]
+[EventDate "1990.??.??"]
+[NicKey "NI 23"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 { [diagram] } 4...d5 *
+
+[Event "NIC Yearbook 15"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "English Opening"]
+[Black "Romanishin's system"]
+[Result "*"]
+[Annotator "YB15; Mikhalchishin, Adrian"]
+[ECO "A17"]
+[EventDate "1990.??.??"]
+[NicKey "EO 60"]
+
+1.c4 Nf6 2.Nc3 e6 3.Nf3 b6 4.e4 Bb7 5.Bd3 { [diagram] } *
+
+[Event "NIC Yearbook 15"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "King's Indian Defence"]
+[Black "Chronology of a variation"]
+[Result "*"]
+[Annotator "YB15; Bueno, Julio Boudy"]
+[ECO "E99"]
+[EventDate "1990.??.??"]
+[NicKey "KI 2.1"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 O-O 5.Nf3 d6 6.Be2 e5 7.O-O Nc6 8.d5 Ne7
+9.Ne1 Nd7 10.f3 f5 11.Be3 f4 12.Bf2 g5 { [diagram] } *
+

@@ -1,0 +1,73 @@
+[Event "NIC Yearbook 18"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Sicilian Defence"]
+[Black "The Bücker-Welling Variation"]
+[Result "*"]
+[Annotator "YB18; Bücker, Stefan"]
+[ECO "B27"]
+[EventDate "1990.??.??"]
+[NicKey "SI 43.1"]
+
+1.e4 c5 2.Nf3 h6 { [diagram] } *
+
+[Event "NIC Yearbook 18"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Ruy Lopez"]
+[Black "The Knight Retreat"]
+[Result "*"]
+[Annotator "YB18; Mikhalchishin, Adrian and Bikhovsky, Anatoli"]
+[ECO "C92"]
+[EventDate "1990.??.??"]
+[NicKey "RL 21.3-21.5"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Nd7 { [diagram] } *
+
+[Event "NIC Yearbook 18"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Queen's Gambit Declined"]
+[Black "10. O-O-O!? - Two years on"]
+[Result "*"]
+[Annotator "YB18; Ilic, Zoran"]
+[ECO "D37"]
+[EventDate "1990.??.??"]
+[NicKey "QO 3.6.7"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 Be7 5.Bf4 O-O 6.e3 c5 7.dxc5 Bxc5 8.Qc2 Nc6
+9.a3 Qa5 10.O-O-O { [diagram] } *
+
+[Event "NIC Yearbook 18"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Benoni Defence"]
+[Black "An early Bf4 PART 2"]
+[Result "*"]
+[Annotator "YB18; Kapengut, Albert"]
+[ECO "A61"]
+[EventDate "1990.??.??"]
+[NicKey "BI 35"]
+
+1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.Bf4 Bg7 8.Qa4+ Bd7
+9.Qb3 { [diagram] } 9...Qc7 10.e4 O-O *
+
+[Event "NIC Yearbook 18"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Dutch Defence"]
+[Black "The Double Fianchetto"]
+[Result "*"]
+[Annotator "YB18; Kramnik, Vladimir"]
+[ECO "A87"]
+[EventDate "1990.??.??"]
+
+1.d4 f5 2.c4 Nf6 3.Nc3 g6 4.g3 Bg7 5.Bg2 O-O 6.Nf3 d6 7.O-O Qe8 8.b3
+{ [diagram] } *
+
