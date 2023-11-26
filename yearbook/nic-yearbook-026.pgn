@@ -1,0 +1,43 @@
+[Event "NIC Yearbook 26"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Ruy Lopez"]
+[Black "Cozio Variation"]
+[Result "*"]
+[Annotator "YB26; Filipenko, Alexander"]
+[ECO "C60"]
+[EventDate "1992.??.??"]
+[NicKey "RL 4"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nge7 { [diagram] } *
+
+[Event "NIC Yearbook 26"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Scotch Opening"]
+[Black "Classical Variation"]
+[Result "*"]
+[Annotator "YB26; Lukacs, Peter and Hazai, Laszlo"]
+[ECO "C45"]
+[EventDate "1992.??.??"]
+[NicKey "SO 5.3"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 { [diagram] } *
+
+[Event "NIC Yearbook 26"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "King's Indian Defence"]
+[Black "Odessa Variation"]
+[Result "*"]
+[Annotator "YB26; Belov, Igor"]
+[ECO "E97"]
+[EventDate "1992.??.??"]
+[NicKey "KI 1"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7
+9.Bg5 { [diagram] } *
+

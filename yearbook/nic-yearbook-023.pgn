@@ -1,0 +1,45 @@
+[Event "NIC Yearbook 23"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Queen's Gambit Declined"]
+[Black "No Easy Equality"]
+[Result "*"]
+[Annotator "YB23; Ivanchuk, Vasily"]
+[ECO "D55"]
+[EventDate "1992.??.??"]
+[NicKey "QO 14.6"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Be7 4.Nf3 Nf6 5.Bg5 h6 6.Bxf6 Bxf6 7.e3 O-O 8.Rc1
+{ [diagram] } *
+
+[Event "NIC Yearbook 23"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Catalan Opening"]
+[Black "Safety First"]
+[Result "*"]
+[Annotator "YB23; Nogueiras, Jesus and Gonzalez, Luis Siero"]
+[ECO "E05"]
+[EventDate "1992.??.??"]
+[NicKey "CA 5.6"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Be7 5.Nf3 O-O 6.O-O dxc4 7.Qc2 a6 8.Qxc4 b5
+9.Qc2 Bb7 { [diagram] } *
+
+[Event "NIC Yearbook 23"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Grünfeld Defence"]
+[Black "The Fianchetto line with 9. d5"]
+[Result "*"]
+[Annotator "YB23; Ilic, Zoran"]
+[ECO "D76"]
+[EventDate "1992.??.??"]
+[NicKey "GI 1.8"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 d5 4.g3 Bg7 5.Bg2 O-O 6.cxd5 Nxd5 7.O-O Nb6 8.Nc3 Nc6
+9.d5 { [diagram] } *
+

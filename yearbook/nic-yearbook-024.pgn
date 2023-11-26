@@ -1,0 +1,44 @@
+[Event "NIC Yearbook 24"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "French Defence"]
+[Black "Nothing special"]
+[Result "*"]
+[Annotator "YB24; Noguieras, Jesus and Gonzalez, Luis Siero"]
+[ECO "C09"]
+[EventDate "1992.??.??"]
+[NicKey "FR 23"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 exd5 5.Ngf3 Nc6 6.Bb5 Bd6 7.dxc5 Bxc5 8.O-O
+Ne7 9.Nb3 Bd6 { [diagram] } *
+
+[Event "NIC Yearbook 24"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Queen's Gambit: Tarrasch Defence"]
+[Black "A Myriad of Transpositions"]
+[Result "*"]
+[Annotator "YB24; Belov, Igor and Pavlovichev, Yury"]
+[ECO "A34"]
+[EventDate "1992.??.??"]
+[NicKey "TD 12.1"]
+
+1.c4 c5 2.Nf3 Nf6 3.Nc3 d5 4.cxd5 Nxd5 5.d4 cxd4 6.Qxd4 Nxc3 7.Qxc3 Nc6 8.e4
+*
+
+[Event "NIC Yearbook 24"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Dutch Defence"]
+[Black "Leningrad Variation"]
+[Result "*"]
+[Annotator "YB24; Tseitlin, Mikhail"]
+[ECO "A89"]
+[EventDate "1992.??.??"]
+[NicKey "HD 6.5"]
+
+1.d4 f5 2.c4 Nf6 3.g3 g6 4.Bg2 Bg7 5.Nf3 O-O 6.O-O d6 7.Nc3 Nc6 *
+
