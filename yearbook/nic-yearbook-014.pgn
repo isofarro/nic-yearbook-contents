@@ -1,0 +1,43 @@
+[Event "NIC Yearbook 14"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "King's Indian Defence"]
+[Black "a5 or c5, that's the question"]
+[Result "*"]
+[Annotator "YB14; Lukacs, Peter and Hazai, Laszlo"]
+[ECO "E97"]
+[EventDate "1989.??.??"]
+[NicKey "KI 7"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7
+9.Nd2 a5 10.a3 c5 { [diagram] } *
+
+[Event "NIC Yearbook 14"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Sicilian Defence"]
+[Black "Surprise, surprise"]
+[Result "*"]
+[Annotator "YB14; Filipenko, Aleksandr"]
+[ECO "B22"]
+[EventDate "1989.??.??"]
+[NicKey "SI 46.1"]
+
+1.e4 c5 2.c3 e5 { [diagram] } *
+
+[Event "NIC Yearbook 14"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Dutch Defence"]
+[Black "More than just a defence?"]
+[Result "*"]
+[Annotator "YB14; Vanheirzeele, Daniel"]
+[ECO "A81"]
+[EventDate "1989.??.??"]
+[NicKey "HD 3"]
+
+1.d4 f5 2.g3 e6 3.Bg2 d5 { [diagram] } *
+
