@@ -1,0 +1,44 @@
+[Event "NIC Yearbook 31"]
+[Site "?"]
+[Date "1994.??.??"]
+[Round "?"]
+[White "Sicilian Defence"]
+[Black "The English Attack"]
+[Result "*"]
+[Annotator "YB31; Nikitin, Alexander"]
+[ECO "B90"]
+[EventDate "1994.??.??"]
+[NicKey "SI 19.1"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e6 { [diagram] } *
+
+[Event "NIC Yearbook 31"]
+[Site "?"]
+[Date "1994.??.??"]
+[Round "?"]
+[White "SIcilian Defence"]
+[Black "Early Sacrifices"]
+[Result "*"]
+[Annotator "YB31; Kuznetsov, I"]
+[ECO "B45"]
+[EventDate "1994.??.??"]
+[NicKey "SI 32.8 + 34.4"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Ndb5 d6 7.Bf4 e5 8.Nd5
+{ [diagram] } *
+
+[Event "NIC Yearbook 31"]
+[Site "?"]
+[Date "1994.??.??"]
+[Round "?"]
+[White "King's Indian Defence"]
+[Black "Fianchetto Variation"]
+[Result "*"]
+[Annotator "YB31; Langeweg, Kick"]
+[ECO "E69"]
+[EventDate "1994.??.??"]
+[NicKey "KI 62"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 O-O 5.Bg2 d6 6.O-O Nbd7 7.Nc3 e5 8.e4 c6 9.h3
+Qb6 { [diagram] } *
+

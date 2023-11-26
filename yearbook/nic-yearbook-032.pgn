@@ -1,0 +1,29 @@
+[Event "NIC Yearbook 32"]
+[Site "?"]
+[Date "1994.??.??"]
+[Round "?"]
+[White "Two Knights Defence"]
+[Black "Lvov Variation"]
+[Result "*"]
+[Annotator "YB32; Mikhalchishin, Adrian"]
+[ECO "C55"]
+[EventDate "1994.??.??"]
+[NicKey "KP 2.2"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.e5 { [diagram] } *
+
+[Event "NIC Yearbook 32"]
+[Site "?"]
+[Date "1994.??.??"]
+[Round "?"]
+[White "Moden Benoni"]
+[Black "Part Two"]
+[Result "*"]
+[Annotator "YB32; Kapengut, Albert"]
+[ECO "A70"]
+[EventDate "1994.??.??"]
+[NicKey "BI 20.2"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.d5 d6 5.Nc3 exd5 6.cxd5 g6 7.e4 Bg7 8.Bd3 O-O
+9.h3 { [diagram] } *
+

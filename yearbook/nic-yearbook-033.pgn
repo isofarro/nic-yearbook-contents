@@ -1,0 +1,27 @@
+[Event "NIC Yearbook 33"]
+[Site "?"]
+[Date "1994.??.??"]
+[Round "?"]
+[White "Sicilian Defence"]
+[Black "with 2. Ne2 Chameleon Variation"]
+[Result "*"]
+[Annotator "YB33; Harding, Tim"]
+[EventDate "1994.??.??"]
+[NicKey "SI 48.2"]
+
+1.e4 c5 2.Ne2 { [diagram] } *
+
+[Event "NIC Yearbook 33"]
+[Site "?"]
+[Date "1994.??.??"]
+[Round "?"]
+[White "Grünfeld Indian Defence"]
+[Black "Spanish in Grünfeld"]
+[Result "*"]
+[Annotator "YB33; Krasenkov, Mikhail"]
+[ECO "D85"]
+[EventDate "1994.??.??"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bb5+
+{ [diagram] } *
+
