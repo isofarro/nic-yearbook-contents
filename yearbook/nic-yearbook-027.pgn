@@ -1,0 +1,42 @@
+[Event "NIC Yearbook 27"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Sicilian Defence"]
+[Black "La Bourdonnais Variation"]
+[Result "*"]
+[Annotator "YB27; Sveshnikov, Evgeny"]
+[ECO "B32"]
+[EventDate "1993.??.??"]
+[NicKey "SI 32"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 { [diagram] } *
+
+[Event "NIC Yearbook 27"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Queen's Gambit Slav"]
+[Black "Winning with Black"]
+[Result "*"]
+[Annotator "YB27; Ruban, Vadim"]
+[ECO "D11"]
+[EventDate "1993.??.??"]
+[NicKey "SL 1.1"]
+
+1.d4 d5 2.c4 c6 3.Nf3 dxc4 { [diagram] } *
+
+[Event "NIC Yearbook 27"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "English Opening"]
+[Black "The Anti-Benoni Gambit"]
+[Result "*"]
+[Annotator "YB27; Mikhalchishin, Adrian"]
+[ECO "A31"]
+[EventDate "1993.??.??"]
+[NicKey "EO 46.4-5"]
+
+1.d4 Nf6 2.c4 c5 3.Nf3 cxd4 4.Nxd4 e5 5.Nb5 d5 6.cxd5 { [diagram] } *
+

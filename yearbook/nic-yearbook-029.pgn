@@ -1,0 +1,44 @@
+[Event "NIC Yearbook 29"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Sicilian Defence"]
+[Black "6. Bc4 against the Scheveningen"]
+[Result "*"]
+[Annotator "YB29; Stoica, Valentin and Istratescu, Andrei"]
+[ECO "B86"]
+[EventDate "1993.??.??"]
+[NicKey "SI 19.9 + SI 26.12"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bc4 Be7 7.Bb3 O-O 8.Be3
+{ [diagram] } *
+
+[Event "NIC Yearbook 29"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Ruy Lopez"]
+[Black "Exchange Variation"]
+[Result "*"]
+[Annotator "YB29; Moroz, Alexander"]
+[ECO "C68"]
+[EventDate "1993.??.??"]
+[NicKey "RL 8.8"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.Nc3 { [diagram] } *
+
+[Event "NIC Yearbook 29"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Grünfeld Indian Defence"]
+[Black "St. Petersburg Variation"]
+[Result "*"]
+[Annotator "YB29; Sakaev, Konstantin"]
+[ECO "D85"]
+[EventDate "1993.??.??"]
+[NicKey "GI 4.12"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Nf3 c5 8.Rb1
+{ [diagram] } *
+
