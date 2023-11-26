@@ -1,0 +1,72 @@
+[Event "NIC Yearbook 19"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Sicilian Dragon"]
+[Black "A fight for survival"]
+[Result "*"]
+[Annotator "YB19; Golubev, Mikhail"]
+[ECO "B76"]
+[EventDate "1991.??.??"]
+[NicKey "SI 17.6"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6
+9.O-O-O d5 10.exd5 Nxd5 11.Nxc6 bxc6 12.Bd4 e5 13.Bc5 Be6 14.Ne4
+{ [diagram] } *
+
+[Event "NIC Yearbook 19"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "French Defence"]
+[Black "The Burn Variation"]
+[Result "*"]
+[Annotator "YB19; Nogueiras, Jesus and Gonzalez, Luis Siero"]
+[ECO "C11"]
+[EventDate "1991.??.??"]
+[NicKey "FR 5.2"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Be7 6.Bxf6 gxf6 { [diagram] } *
+
+[Event "NIC Yearbook 19"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Petroff Defence"]
+[Black "The Cochrane Gambit"]
+[Result "*"]
+[Annotator "YB19; Osmos, Viacheslav and Kalinichenko, Nikolay"]
+[ECO "C42"]
+[EventDate "1991.??.??"]
+[NicKey "RG 3.1"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nxf7 { [diagram] } *
+
+[Event "NIC Yearbook 19"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Ruy Lopez"]
+[Black "The Alapin Variation"]
+[Result "*"]
+[Annotator "YB19; Welling, Gerard"]
+[ECO "C60"]
+[EventDate "1991.??.??"]
+[NicKey "RL 1.1"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Bb4 { [diagram] } *
+
+[Event "NIC Yearbook 19"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Queen's Gambit: Vienna"]
+[Black "Adventures in the Vienna Woods"]
+[Result "*"]
+[Annotator "YB19; Lukacs, Peter and Hazai, Laszlo"]
+[ECO "D39"]
+[EventDate "1991.??.??"]
+[NicKey "NI 27.5"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Bb4 5.Bg5 dxc4 6.e4 c5 { [diagram] } *
+

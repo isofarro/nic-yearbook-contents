@@ -1,0 +1,57 @@
+[Event "NIC Yearbook 21"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Sicilian Defence"]
+[Black "Fischer versus Najdorf"]
+[Result "*"]
+[Annotator "YB21; Mikhalchishin, Adrian"]
+[ECO "B86"]
+[EventDate "1991.??.??"]
+[NicKey "SI 13"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bc4 e6 7.Bb3 *
+
+[Event "NIC Yearbook 21"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Queen's Gambit Slav"]
+[Black "Breaking the Symmetry"]
+[Result "*"]
+[Annotator "YB21; Filipenko, Alexander"]
+[ECO "D10"]
+[EventDate "1991.??.??"]
+[NicKey "SL 11.1"]
+
+1.d4 d5 2.c4 c6 3.cxd5 cxd5 4.Nc3 Nf6 5.Bf4 Qb6 { [diagram] } *
+
+[Event "NIC Yearbook 21"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Grünfeld Indian Defence"]
+[Black "Completing the Picture"]
+[Result "*"]
+[Annotator "YB21; Sakaev, Konstantin"]
+[ECO "D85"]
+[EventDate "1991.??.??"]
+[NicKey "GI 4.12"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Nf3 c5 8.Rb1 O-O
+9.Be2 cxd4 10.cxd4 Qa5+ 11.Bd2 Qxa2 12.O-O { [diagram] } *
+
+[Event "NIC Yearbook 21"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "King's Indian Defence"]
+[Black "It's Na6 again"]
+[Result "*"]
+[Annotator "YB21; Belov, Igor"]
+[ECO "E76"]
+[EventDate "1991.??.??"]
+[NicKey "KI 55.10"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f4 O-O 6.Nf3 Na6 { [diagram] } *
+
