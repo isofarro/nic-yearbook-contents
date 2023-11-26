@@ -1,4 +1,4 @@
-[Event "?"]
+[Event "NIC Yearbook 7"]
 [Site "?"]
 [Date "1988.??.??"]
 [Round "?"]
@@ -7,13 +7,14 @@
 [Result "*"]
 [Annotator "YB7; Dobosz, Henryk"]
 [ECO "D49"]
+[EventDate "1988.??.??"]
 [NicKey "SL 9.7"]
 
 1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 e6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6
 9.e4 c5 10.e5 cxd4 11.Nxb5 Nxe5 12.Nxe5 axb5 13.O-O Qd5 14.Qe2 Ba6
 { [diagram] } *
 
-[Event "?"]
+[Event "NIC Yearbook 7"]
 [Site "?"]
 [Date "1988.??.??"]
 [Round "?"]
@@ -22,12 +23,13 @@
 [Result "*"]
 [Annotator "YB7; Donaldson, John"]
 [ECO "D49"]
+[EventDate "1988.??.??"]
 [NicKey "SL 9.7"]
 
 1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 e6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6
 9.e4 c5 10.e5 cxd4 11.Nxb5 Nxe5 12.Nxe5 axb5 13.O-O { [diagram] } *
 
-[Event "?"]
+[Event "NIC Yearbook 7"]
 [Site "?"]
 [Date "1988.??.??"]
 [Round "?"]
@@ -36,12 +38,13 @@
 [Result "*"]
 [Annotator "YB7; van der Tak, A.C."]
 [ECO "C88"]
+[EventDate "1988.??.??"]
 [NicKey "RL 18"]
 
 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.a4 Bb7
 { [diagram] } *
 
-[Event "?"]
+[Event "NIC Yearbook 7"]
 [Site "?"]
 [Date "1988.??.??"]
 [Round "?"]
@@ -50,6 +53,7 @@
 [Result "*"]
 [Annotator "YB7; Kuijf, Rini"]
 [ECO "B56"]
+[EventDate "1988.??.??"]
 [NicKey "SI 25.1"]
 
 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be3 { [diagram] } *

@@ -1,4 +1,4 @@
-[Event "?"]
+[Event "NIC Yearbook 10"]
 [Site "?"]
 [Date "1988.??.??"]
 [Round "?"]
@@ -7,8 +7,40 @@
 [Result "*"]
 [Annotator "YB10; Lukacs, Peter and Hazai, Laszlo"]
 [ECO "D15"]
+[EventDate "1988.??.??"]
 [NicKey "SL 3"]
 
 1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 dxc4 5.e4 b5 6.e5 Nd5 7.a4 e6 { [diagram] }
 *
+
+[Event "NIC Yearbook 10"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Grünfeld Indian Defence"]
+[Black "Back into the Spotlight"]
+[Result "*"]
+[Annotator "YB10; de Wit, Jan"]
+[ECO "D89"]
+[EventDate "1988.??.??"]
+[NicKey "GI 6"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 c5 7.Bc4 Bg7 8.Ne2 Nc6
+9.Be3 O-O 10.O-O cxd4 11.cxd4 Bg4 12.f3 Na5 13.Bd3 Be6 14.Rc1 Bxa2
+{ [diagram] } *
+
+[Event "NIC Yearbook 10"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Sicilian Defence"]
+[Black "Modern Fashion"]
+[Result "*"]
+[Annotator "YB10; Ermenkov, Evgeny"]
+[ECO "B84"]
+[EventDate "1988.??.??"]
+[NicKey "SI 23"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Be2 a6 7.f4 Be7 8.O-O O-O
+9.Kh1 Qc7 { [diagram] } *
 
