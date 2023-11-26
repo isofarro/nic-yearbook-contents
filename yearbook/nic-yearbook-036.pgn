@@ -1,0 +1,30 @@
+[Event "NIC Yearbook 36"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Catalan Opening"]
+[Black "Meeting Robatsch's 7... Nc6"]
+[Result "*"]
+[Annotator "YB36; Nogueiras, Jesus and Gonzalez, Luis Siero"]
+[ECO "E05"]
+[EventDate "1995.??.??"]
+[NicKey "CA 5.4"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Nf3 Be7 5.Bg2 O-O 6.O-O dxc4 7.Ne5 Nc6 8.Nxc6 bxc6
+9.Na3 { [diagram] } *
+
+[Event "NIC Yearbook 36"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "English Opening"]
+[Black "8. Rb1 - A Modern Line"]
+[Result "*"]
+[Annotator "YB36; Hazai, Laszlo and Lukacs, Peter"]
+[ECO "A29"]
+[EventDate "1995.??.??"]
+[NicKey "EO 3.4-10"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O Be7 8.Rb1
+{ [diagram] } *
+

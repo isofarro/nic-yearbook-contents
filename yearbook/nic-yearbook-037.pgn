@@ -1,0 +1,29 @@
+[Event "NIC Yearbook 37"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Ruy Lopez"]
+[Black "The Norwegian Variation"]
+[Result "*"]
+[Annotator "YB37; Tisdall, Jonathan"]
+[ECO "C70"]
+[EventDate "1995.??.??"]
+[NicKey "RL 9.3"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 b5 5.Bb3 Na5 { [diagram] } *
+
+[Event "NIC Yearbook 37"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Sicilian Defence"]
+[Black "Velimirovic Attack: New ideas and topical positions"]
+[Result "*"]
+[Annotator "YB37; Nikitin, Alexander"]
+[ECO "B89"]
+[EventDate "1995.??.??"]
+[NicKey "SI 26.7-26.8"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bc4 e6 7.Be3 Be7 8.Qe2 O-O
+9.O-O-O a6 10.Bb3 { [diagram] } *
+

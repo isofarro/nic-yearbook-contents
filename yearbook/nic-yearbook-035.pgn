@@ -1,0 +1,30 @@
+[Event "NIC Yearbook 35"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "French Defence"]
+[Black "Tarrasch Variation"]
+[Result "*"]
+[Annotator "YB35; Tsin, Igor"]
+[ECO "C06"]
+[EventDate "1995.??.??"]
+[NicKey "FR 17.11"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.Bd3 c5 6.c3 Nc6 7.Ne2 cxd4 8.cxd4 f6
+9.exf6 Nxf6 10.O-O Bd6 11.Nf3 Qc7 12.Bg5 O-O { [diagram] } *
+
+[Event "NIC Yearbook 35"]
+[Site "?"]
+[Date "1994.??.??"]
+[Round "?"]
+[White "Ruy Lopez"]
+[Black "The Marshall Attack"]
+[Result "*"]
+[Annotator "YB35; Shamkovich, Leonid and Kaminsky, Vadim"]
+[ECO "C89"]
+[EventDate "1994.??.??"]
+[NicKey "RL 17"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5
+9.exd5 Nxd5 10.Nxe5 Nxe5 11.Rxe5 c6 { [diagram] } *
+
