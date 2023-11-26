@@ -1,0 +1,40 @@
+[Event "?"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Reti Opening"]
+[Black "Under Fire"]
+[Result "*"]
+[Annotator "YB9; Lukacs, Peter and Hazai, Laszlo"]
+[ECO "A11"]
+[NicKey "RE 7"]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 c6 4.c4 dxc4 { [diagram] } *
+
+[Event "?"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Grünfeld Indian Defence"]
+[Black "The Prins Variation"]
+[Result "*"]
+[Annotator "YB9; van der Tak, A.C."]
+[ECO "D97"]
+[NicKey "GI 10"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4 Na6
+{ [diagram] } *
+
+[Event "?"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Nimzo-Indian Defence"]
+[Black "New Wine in Old Bottles"]
+[Result "*"]
+[Annotator "YB9; Langeweg, Kick"]
+[ECO "E13"]
+[NicKey "NI 26"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb4 5.Bg5 h6 6.Bh4 Bb7 7.e3 { [diagram] } *
+
